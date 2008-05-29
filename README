@@ -1,0 +1,7 @@
+This is a GitHub theme for ViM.
+
+The basic colors are defined, but I'm sure it can be improved.
+
+To use, copy github.vim to ~/.vim/colors and use :colo github in ViM.
+
+Copyright (c) 2008 Bruno Michel, released under the MIT license
